@@ -1,0 +1,22 @@
+{
+  "name": "webpack-try",
+  "version": "1.0.0",
+  "description": "webpack try ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devCharles/webpack-try.git"
+  },
+  "author": "devCharles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devCharles/webpack-try/issues"
+  },
+  "homepage": "https://github.com/devCharles/webpack-try#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
